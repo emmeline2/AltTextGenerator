@@ -3,12 +3,12 @@ Alternative Text Generator
 to run: python camption.py 
 
 Example: 
-![home page](http://url/to/img.png)
-![Dog image with loading icon](http://url/to/img.png)
-![Dog image alternative text generated](http://url/to/img.png)
+![home page](images/home_page.JPG)
+![Dog image with loading icon](images/generating.JPG)
+![Dog image alternative text generated](images/generated.JPG)
 
-![Chicago image with loading icon](http://url/to/img.png)
-![Chicago image alternative text generated](http://url/to/img.png)
+![Chicago image with loading icon](images/chi.JPG)
+![Chicago image alternative text generated](images/chi_generated.JPG)
 
 
 
